@@ -11,10 +11,10 @@ import Kingfisher
 ```
 
 <p align="center">
-	<img src="pantallas/Pantalla_0.png" width="200"/>
-	<img src="pantallas/Pantalla_1.png" width="200"/>
-	<img src="pantallas/Pantalla_2.png" width="200"/>
-	<img src="pantallas/Pantalla_3.png" width="200"/>
+	<img src="pantallas/pantalla_0.png" width="200"/>
+	<img src="pantallas/pantalla_1.png" width="200"/>
+	<img src="pantallas/pantalla_2.png" width="200"/>
+	<img src="pantallas/pantalla_3.png" width="200"/>
 </p>
 
 
