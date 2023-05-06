@@ -10,23 +10,12 @@ Para usarlo solo debe importar la dependencia
 import Kingfisher
 ```
 
-<style>
-.imagenes {
-  display: flex;
-}
-.imagenes img:first-child {
-  margin-right: 10px;
-}
-</style>
-
-<div class="imagenes">
-	<p align="center">
-		<img src="pantallas/Pantalla_0.png"/>
-		<img src="pantallas/Pantalla_1.png"/>
-		<img src="pantallas/Pantalla_2.png"/>
-		<img src="pantallas/Pantalla_3.png"/>
-	</p>
-</div>
+<p align="center">
+	<img src="pantallas/Pantalla_0.png" width="250"/>
+	<img src="pantallas/Pantalla_1.png" width="250"/>
+	<img src="pantallas/Pantalla_2.png" width="250"/>
+	<img src="pantallas/Pantalla_3.png" width="250"/>
+</p>
 
 ![App Screenshot](pantallas/Pantalla_0.png)
 ![App Screenshot](pantallas/Pantalla_1.png)
