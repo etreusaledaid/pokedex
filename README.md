@@ -10,6 +10,10 @@ Para usarlo solo debe importar la dependencia
 import Kingfisher
 ```
 
+Son 5 oportunidades, para ganar necesitas un minimo de 3 aciertos.
+
+Los pokemon pueden aparecer en estado normal o shiny.
+
 <p align="center">
 	<img src="pantallas/pantalla_0.png" width="200"/>
 	<img src="pantallas/pantalla_1.png" width="200"/>
