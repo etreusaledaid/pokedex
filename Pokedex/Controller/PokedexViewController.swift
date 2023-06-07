@@ -2,7 +2,7 @@
 //  PokedexViewController.swift
 //  Pokedex
 //
-//  Created by Yussel Coranguez on 17/01/23.
+//  Created by Yuss on 17/01/23.
 //
 //  Api https://pokeapi.co/
 //  JSON https://app.quicktype.io/
